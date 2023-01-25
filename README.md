@@ -13,12 +13,11 @@ Get the input matrix
 Find the inverse of the matrix
 ### Step 4: 
 print the result
-
 ## Program:
 import numpy as np
 a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 result=np.linalg.inv(a)
-print(result
+print(result)
 ## Output:
 ![inverse.png](./inverse.png)
 ## Result:

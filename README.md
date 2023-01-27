@@ -28,7 +28,8 @@ result=np.linalg.inv(a)
 print(result)
 
 ## Output:
-![inverse.png](./inverse.png)
+![inverse](https://user-images.githubusercontent.com/119477817/215101501-608e164a-f429-49c2-bf84-6bfa73d4014b.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program.
 
